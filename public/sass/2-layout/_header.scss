@@ -1,0 +1,17 @@
+.navigation{
+    position:relative;
+}
+.cart-button{
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    color:rgb(241, 239, 235);
+    border: 1px solid rgb(241, 239, 235);
+    border-radius: .25rem;
+    position: fixed;
+    top:13px;
+    right:5px;
+    z-index:2000;
+    float: right !important;
+}

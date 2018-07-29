@@ -1,0 +1,77 @@
+
+.prod-li{
+    display: inline-block;
+    margin:1% 1% 1% 0%;
+}
+.card{
+    width:16rem;
+    border:0px !important;
+    height:430px;
+    position:relative;
+}
+.card-img-top{
+    height:180px;
+}
+.card-body{
+    position:absolute;
+    bottom: 2px;
+}
+.card-text{
+    color:#58D68D;
+    
+    letter-spacing:1px;
+}
+.card-title,.card-text{
+    margin-left: 2%;
+}
+.btn-warning{
+    background-color: #F5B041 ;
+    padding-top:2%; 
+}
+.btn-primary{
+    background-color:#3498DB;
+    border:#3498DB;
+    padding-top:2%; 
+}
+.btn-dark{
+    width:25px;
+    height:25px;
+    padding:0;
+    margin:0;
+    position:absolute;
+    top:3px;
+    right:3px;
+}
+
+.fa-check{
+    color:green;
+}
+
+#confirm-event{
+    width: 20rem;
+    height:120px;
+    background-color: antiquewhite;
+    position:fixed;
+    bottom:3%;
+    right:3%;
+    padding:1%;
+}
+#confirm-title{
+    margin:1px 1px 1px 1px !important;
+    font-weight: bold;
+}
+
+.prod-list{
+    
+    padding:5%;
+    background-color: #F8F9F9 ;
+    position:relative;
+}
+.ul-container{
+    margin-left:2%;  
+}
+.dropdown-toggle:hover{
+    background-color: #e59920;
+    border:#e59920;
+}
+
